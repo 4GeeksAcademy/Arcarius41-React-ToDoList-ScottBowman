@@ -1,6 +1,7 @@
 
 ul li {
 border: 1px solid gray;
+text-align: auto;
 }
 .container{
     height: 600px;
